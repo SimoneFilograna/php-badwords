@@ -20,8 +20,8 @@
     <div class="container p-5 mt-3">
         <h1 class="text-center text-white display-1">FILTERED WORD AND PARAGRAPH</h1>
 
-        <div class="card-container mt-4">
-            <div class="row justify-content-center">
+        <div class="card-container mt-4 pt-4">
+            <div class="row justify-content-center g-5">
                 <div class="col-4">
                     <div class="card text-center mt-5 h-100 rounded-pill">
                         <h3 class="pt-4">Original Text</h3>
