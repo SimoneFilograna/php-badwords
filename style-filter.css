@@ -1,0 +1,10 @@
+body{
+    background-image: url(./img/index-bg.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h2, h3, p{
+    color: rgb(133, 69, 153);
+};
