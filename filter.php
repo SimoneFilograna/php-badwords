@@ -1,7 +1,7 @@
 <?php
-    $parag = $_POST["parag"];
+    $parag = $_POST["parag"] ?? null;
     $old_count = strlen($parag);
-    $badword = $_POST["filter"];
+    $badword = $_POST["filter"] ?? null;
     $new_text = str_replace($badword,"***", $parag);
     $count = strlen($new_text);      
 
